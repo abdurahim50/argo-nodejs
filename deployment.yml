@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nodesy-container
-          image: ibtlearning.azurecr.io/nodejsapp:v1.0.0
+          image: abduacr.azurecr.io/nodejsapp:v1.0.0
           ports:
             - containerPort: 3000
 ---
